@@ -1,0 +1,15 @@
+{
+  "name": "Envelope: Weight and balance",
+  "short_name": "Envelope",
+  "description": "Weight and balance for Cessna and Piper trainers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f3f0",
+  "theme_color": "#111110",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
